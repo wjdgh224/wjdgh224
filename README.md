@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 
 
-https://user-images.githubusercontent.com/78483046/200473049-2ac62d59-277c-4706-a3cf-96d42436a7e2.svg
-
 
 <!--
 **wjdgh224/wjdgh224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
