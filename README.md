@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-  
+(https://github-readme-stats.vercel.app/api?username=wjdgh224-C&theme=vue&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdgh224&layout=compact&theme=tokyonight)
   
 #### Language
