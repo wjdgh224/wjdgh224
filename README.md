@@ -4,10 +4,10 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FF9E0F?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
-![springboot](https://user-images.githubusercontent.com/78483046/200473049-2ac62d59-277c-4706-a3cf-96d42436a7e2.svg)
+https://user-images.githubusercontent.com/78483046/200473049-2ac62d59-277c-4706-a3cf-96d42436a7e2.svg
 
 
 <!--
