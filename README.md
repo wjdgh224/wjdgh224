@@ -5,6 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdgh224&theme=vue&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdgh224&layout=compact&theme=tokyonight)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjdgh721224@naver.com)](https://solved.ac/wjdgh721224@naver.com)
   
 #### Language
 <p>
