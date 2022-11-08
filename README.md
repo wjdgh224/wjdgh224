@@ -33,8 +33,8 @@
 #### Etc
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
   
-
- 
+<br><br>
+### Projects
   
 [APPTIVE 활동 (2022.03 ~ 2022.07) - 의심스러운 증상에 대한 정보를 제공하는 의료 커뮤니티](https://github.com/Apptive2022-1/KidsCare)
 
