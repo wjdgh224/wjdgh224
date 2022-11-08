@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdgh224&layout=compact&theme=tokyonight)
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjdgh721224)](https://solved.ac/wjdgh721224)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjdgh721224)](https://solved.ac/wjdgh721224)
   
 #### Language
 <p>
