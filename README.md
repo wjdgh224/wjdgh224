@@ -36,8 +36,9 @@
 ### Projects
   
 [APPTIVE 활동 (2022.03 ~ 2022.07) - 의심스러운 증상에 대한 정보를 제공하는 의료 커뮤니티](https://github.com/Apptive2022-1/KidsCare)
-[APPTIVE 활동 (2022.09 ~ 2022.12) - 초심자를 위한 와인 추천 앱](https://github.com/Apptive2022-1/KidsCare](https://github.com/Apptive2022-1/apptive-17th-team1-backend)
-(https://github.com/Apptive2022-1/EasyWine)
+[APPTIVE 활동 (2022.09 ~ 2022.12) - 초심자를 위한 와인 추천 앱 - Front](https://github.com/Apptive2022-1/EasyWine)
+[APPTIVE 활동 (2022.09 ~ 2022.12) - 초심자를 위한 와인 추천 앱 - Back](https://github.com/Apptive2022-1/apptive-17th-team1-backend)
+
 
 <!--
 **wjdgh224/wjdgh224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
