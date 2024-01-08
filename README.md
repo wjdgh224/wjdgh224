@@ -3,9 +3,7 @@
 ### Hi there 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdgh224&layout=compact&theme=tokyonight)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjdgh721224)](https://solved.ac/wjdgh721224)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgh721224)](https://solved.ac/wjdgh721224/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdgh224&theme=vue&show_icons=true)
   
 #### Language
